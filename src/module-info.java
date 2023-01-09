@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bridg
+ *
+ */
+module HangmanProject {
+}
